@@ -8,7 +8,7 @@ how to scrap product
 6. enter your copied link in the input section
 7. wait some time take to scrap data
 
-🎉🎉Hurray your product is scrap🎉🎉
+🎉🎉Congratulation  your product is scrap🎉🎉
 
 live link: https://srapingproduct.onrender.com
 
