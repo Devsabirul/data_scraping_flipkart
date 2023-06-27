@@ -1,6 +1,6 @@
 #Flipkart Product Data Scraping
 ---------------------------------------------------------------
-video link: https://www.awesomescreenshot.com/video/18683067?key=3eb7c86f9234c9d8056e60f2e5878255
+video link: https://www.awesomescreenshot.com/video/18683067?key=3eb7c86f9234c9d8056e60f2e5878255 </br>
 live link: https://srapingproduct.onrender.com
 ---------------------------------------------------------------------
 how to scrap product:
