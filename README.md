@@ -1,5 +1,9 @@
 #Flipkart Product Data Scraping
-how to scrap product 
+---------------------------------------------------------------
+video link: https://www.awesomescreenshot.com/video/18683067?key=3eb7c86f9234c9d8056e60f2e5878255
+live link: https://srapingproduct.onrender.com
+---------------------------------------------------------------------
+how to scrap product:
 1. go to flipkart.com
 2. search for products you need
 3. copy the link 1st page 2nd page or etc you need
@@ -10,5 +14,5 @@ how to scrap product
 
 🎉🎉Congratulation  your product is scrap🎉🎉
 
-live link: https://srapingproduct.onrender.com
+
 
